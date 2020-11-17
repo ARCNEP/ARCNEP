@@ -3,19 +3,19 @@
 img {
   margin-top: -1px;
   display: inline-block;
-  overflow: scroll;
-  object-fit: fill;
+  object-fit: cover;
   margin-bottom: -1px;
   position: relative;
   width: 100vw;
   min-width: 100vw;
-  max-width: 105vw;
+  max-width: 100vw;
   height: auto;
 
 }
 
 .body {
-  max-width: 105vw;
+  width: 100vw;
+  max-width: 100vw;
   max-height: auto;
   min-width: 100vw;
   
