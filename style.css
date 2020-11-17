@@ -1,27 +1,18 @@
 
 
 img {
-  margin-top: -1px;
-  display: inline-block;
-  overflow-x: hidden;
-  object-fit: cover;
-  margin-bottom: -1px;
-  position: center;
-  width: 101vw;
-  min-width: 101vw;
-  max-width: 101vw;
-  height: auto;
-
+    width: 100vw;
+    overflow: hidden;
+    overflow-x: hidden;
+    margin-top: -1px;
+    margin-bottom: -1px;
 }
 
 html, body {
-  width: 101vw;
-  max-width: 101vw;
-  max-height: auto;
-  min-width: 101vw;
-  overflow-x: hidden;
-  
+    overflow-x: hidden;
+    min-width: 100vw;
+    margin: 0px;
+    
 }
-
 
 
