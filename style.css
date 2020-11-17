@@ -4,8 +4,8 @@ img {
     width: 100vw;
     overflow: hidden;
     overflow-x: hidden;
-    margin-top: -1px;
-    margin-bottom: -1px;
+    margin-top: -3px;
+    margin-bottom: -3px;
 }
 
 html, body {
