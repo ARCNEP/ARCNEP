@@ -32,6 +32,8 @@ html, body {
 
 @media (max-width: 749px) {
     img {
+        display: inline;
+        min-width: 100vw;
         width: 100vw;
     overflow: hidden;
     overflow-x: hidden;
