@@ -16,7 +16,7 @@ html, body {
     
 }
 
-@media (min-width: 750px) {
+@media (orientation: landscape) {
     img {
     display: block;
     width: 50vw;
@@ -30,7 +30,7 @@ html, body {
 }
 }
 
-@media (max-width: 749px) {
+@media (orientation: portrait) {
     img {
         display: inline;
         min-width: 100vw;
