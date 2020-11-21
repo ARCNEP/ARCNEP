@@ -17,6 +17,8 @@ html, body {
 
 @media (min-width: 500px) {
     img {
+    margin-left: 50%;
+    margin-right: 50%;
     width: 50vw;
     overflow: hidden;
     overflow-x: hidden;
