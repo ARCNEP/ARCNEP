@@ -15,4 +15,14 @@ html, body {
     
 }
 
+@media (min-width: 500px) {
+    img {
+    width: 50vw;
+    overflow: hidden;
+    overflow-x: hidden;
+    margin-top: -3px;
+    margin-bottom: -3px; 
+}
+}
+
 
