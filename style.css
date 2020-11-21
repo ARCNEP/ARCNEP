@@ -18,12 +18,13 @@ html, body {
 
 @media (min-width: 500px) {
     img {
-    display: inline;
+    display: block;
     width: 50vw;
     overflow: hidden;
     overflow-x: hidden;
     margin-top: -3px;
-    margin-bottom: -3px; 
+    margin-bottom: -3px;
+    margin: auto;
     object-position: 50% 50%;
     o-object-position: 50% 50%;
 }
