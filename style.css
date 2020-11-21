@@ -9,6 +9,7 @@ img {
 }
 
 html, body {
+    background-color: black;
     overflow-x: hidden;
     min-width: 100vw;
     margin: 0px;
@@ -17,8 +18,7 @@ html, body {
 
 @media (min-width: 500px) {
     img {
-    margin-left: 50%;
-    margin-right: 50%;
+    display: center;
     width: 50vw;
     overflow: hidden;
     overflow-x: hidden;
